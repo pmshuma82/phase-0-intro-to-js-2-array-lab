@@ -1,1 +1,2 @@
-// Write your solution here!
+function destructivelyArray(): any
+
